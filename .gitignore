@@ -1,11 +1,5 @@
 /node_modules
-/package-lock.json
-/package.json
+
 /.env
-/models
+
 /data
-/middlewares
-/utils
-/routes
-/controllers
-/server.js
